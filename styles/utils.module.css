@@ -23,6 +23,11 @@
 .headingMd {
   font-size: 1.2rem;
   line-height: 1.5;
+  color: #394359;
+}
+.a{
+  color: #303242;
+  text-decoration: none;
 }
 
 .borderCircle {
